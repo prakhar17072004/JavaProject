@@ -10,7 +10,7 @@ public class Triangle10 {
 			 System.out.print("  ");
 		 }
 		 for(int j=1;j<=star;j++) {
-			 System.out.print(j+" ");
+			 System.out.printf(j+" ");
 		 }
 		 star++; space--;
 		 System.out.println();
